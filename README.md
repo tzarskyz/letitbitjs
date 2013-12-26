@@ -1,4 +1,4 @@
 letitbitjs
 ==========
 
-Помощник для сайта letitbit.net
+Helper for letitbit.net. Moved from http://userscripts.org/scripts/show/149505.
